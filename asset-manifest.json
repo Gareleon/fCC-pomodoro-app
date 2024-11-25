@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fCC-pomodoro-app/static/css/main.5381d4f3.css",
+    "main.js": "/fCC-pomodoro-app/static/js/main.d928b777.js",
+    "static/js/453.88508313.chunk.js": "/fCC-pomodoro-app/static/js/453.88508313.chunk.js",
+    "index.html": "/fCC-pomodoro-app/index.html",
+    "main.5381d4f3.css.map": "/fCC-pomodoro-app/static/css/main.5381d4f3.css.map",
+    "main.d928b777.js.map": "/fCC-pomodoro-app/static/js/main.d928b777.js.map",
+    "453.88508313.chunk.js.map": "/fCC-pomodoro-app/static/js/453.88508313.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5381d4f3.css",
+    "static/js/main.d928b777.js"
+  ]
+}
